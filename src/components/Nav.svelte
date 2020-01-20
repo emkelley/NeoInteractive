@@ -26,6 +26,7 @@
         <a href="about" class="navbar-item">About</a>
         <a href="games" class="navbar-item">Games</a>
         <a href="jobs" class="navbar-item">Jobs</a>
+        <a href="press" class="navbar-item">Press Kits</a>
       </div>
     </div>
   </div>

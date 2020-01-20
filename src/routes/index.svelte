@@ -2,6 +2,9 @@
   .hero {
     background-image: radial-gradient(circle at top, #272c2ed3, #0e1010da),
       url("./home_bg.jpg") !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     height: calc(100vh - 50px) !important;
     font-family: nunito-sans, sans-serif;
     margin-top: -50px;
